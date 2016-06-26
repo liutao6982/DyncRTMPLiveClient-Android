@@ -9,7 +9,7 @@ RTMP 推流器</br>
 RTMP 播放器</br>
 
 ##编译环境
-**Eclipse** 和**Android Studio**
+**Eclipse** 和 **Android Studio**
 
 ##支持的系统平台
 **Android** 4.0及以上
